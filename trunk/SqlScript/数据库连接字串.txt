@@ -1,0 +1,8 @@
+
+连接SQL SERVER2005 Express
+------------------------------------------
+Data Source=.\SQLEXPRESS;Initial Catalog=lydxDB;Integrated Security=false;User ID=sa;Password=jift
+
+连接SQL SERVER2005
+------------------------------------------
+Server=Localhost;Integrated Security=True;DataBase=lydxDB;

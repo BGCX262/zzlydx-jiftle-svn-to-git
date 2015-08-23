@@ -1,0 +1,5 @@
+D:\wwwroot\zzlydx\zzlydx\bin\zzlydx.dll
+D:\wwwroot\zzlydx\zzlydx\bin\zzlydx.pdb
+D:\wwwroot\zzlydx\zzlydx\obj\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\zzlydx\zzlydx\obj\Debug\zzlydx.dll
+D:\wwwroot\zzlydx\zzlydx\obj\Debug\zzlydx.pdb
